@@ -3,8 +3,11 @@
  */
 public class Calculadora {
 
-    public int Soma(int a, int b) {
+    public int soma(int a, int b) {
         return a + b;
     }
-    
+
+    public int subtracao(int a, int b) {
+        return a - b;
+    }
 }           
